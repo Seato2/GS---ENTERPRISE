@@ -1,6 +1,6 @@
 # GS---ENTERPRISE
 
-# Marine Pollution Monitoring API
+# Marine Pollution Monitoring API (Sea Health)
 
 ## Escopo 
 
