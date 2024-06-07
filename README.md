@@ -4,7 +4,7 @@
 
 ## Escopo 
 
-A Marine Pollution Monitoring API é uma solução desenvolvida para facilitar a coleta e gerenciamento de dados sobre poluição marinha. Utilizando tecnologia de ponta, essa API permite que organizações ambientais, pesquisadores e autoridades governamentais acompanhem em tempo real a quantidade e tipo de poluentes nos corpos d'água.
+A Marine Pollution Monitoring API (Sea Health) é uma solução desenvolvida para facilitar a coleta e gerenciamento de dados sobre poluição marinha. Utilizando tecnologia de ponta, essa API permite que organizações ambientais, pesquisadores e autoridades governamentais acompanhem em tempo real a quantidade e tipo de poluentes nos corpos d'água.
 
 ### Funcionalidades
 
