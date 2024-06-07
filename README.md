@@ -17,8 +17,9 @@ A Marine Pollution Monitoring API é uma solução desenvolvida para facilitar a
 GET /pollution
 Descrição: Retorna uma lista de todos os registros de poluição.
 Resposta Esperada: Lista de registros, cada um contendo Id, Location, Quantity, Timestamp.
-POST /pollution
 
+
+POST /pollution
 Descrição: Permite adicionar um novo registro de poluição.
 Corpo da Requisição: JSON contendo Location, Quantity, Timestamp.
 Resposta Esperada: Detalhes do registro criado, incluindo seu Id.
@@ -57,6 +58,6 @@ dotnet ef database update
 
 5. Inicie a aplicação
 
-dotnet run
+  dotnet run
 
 
