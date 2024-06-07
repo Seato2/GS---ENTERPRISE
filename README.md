@@ -34,6 +34,7 @@ Antes de iniciar, certifique-se de que você tem o .NET 7 instalado em seu ambie
 1. Clone o repositório do projeto para sua máquina local:
 
 git clone [https://GS---ENTERPRISE.com/marine-pollution-api.git](https://github.com/Seato2/GS---ENTERPRISE.git)
+
 cd marine-pollution-api
 
 2. Instale as dependências necessárias:
